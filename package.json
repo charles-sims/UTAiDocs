@@ -35,7 +35,7 @@
     "clsx": "^1.2.1",
     "d3-dsv": "^2.0.0",
     "dotenv": "^16.0.3",
-    "epub2": "^3.0.1",
+    "epub2": "^3.0.2",
     "eventsource-parser": "^0.1.0",
     "flowbite": "^1.6.4",
     "formidable": "^2.1.1",
